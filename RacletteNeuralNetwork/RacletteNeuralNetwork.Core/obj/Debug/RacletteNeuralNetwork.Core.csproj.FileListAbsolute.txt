@@ -1,0 +1,5 @@
+D:\Projets\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\Debug\RacletteNeuralNetwork.Core.dll
+D:\Projets\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\Debug\RacletteNeuralNetwork.Core.pdb
+D:\Projets\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.csprojResolveAssemblyReference.cache
+D:\Projets\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.dll
+D:\Projets\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.pdb

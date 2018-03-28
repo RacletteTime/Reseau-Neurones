@@ -10,6 +10,7 @@ namespace RacletteNeuralNetwork.Core
     {
         public double Variable { get; set; }
         public Neurone PreviousNeurone { get; set; }
+
         public double Weight { get; set; }
 
         public Liaison(double _variable, double _weight)

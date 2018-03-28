@@ -48,9 +48,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Helpers\RandomHelper.cs" />
     <Compile Include="Helpers\RetropropagationHelper.cs" />
+    <Compile Include="Services\NetworkService.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Services\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

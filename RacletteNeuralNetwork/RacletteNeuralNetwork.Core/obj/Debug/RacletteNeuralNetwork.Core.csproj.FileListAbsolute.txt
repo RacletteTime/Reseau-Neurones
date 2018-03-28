@@ -3,3 +3,8 @@ D:\Projets\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\Debug\RacletteNe
 D:\Projets\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.csprojResolveAssemblyReference.cache
 D:\Projets\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.dll
 D:\Projets\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.pdb
+D:\Projets\Reseau-Neurones\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\Debug\RacletteNeuralNetwork.Core.dll
+D:\Projets\Reseau-Neurones\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\Debug\RacletteNeuralNetwork.Core.pdb
+D:\Projets\Reseau-Neurones\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.csprojResolveAssemblyReference.cache
+D:\Projets\Reseau-Neurones\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.dll
+D:\Projets\Reseau-Neurones\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.pdb

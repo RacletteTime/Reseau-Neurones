@@ -6,3 +6,6 @@ D:\Projets\RacletteNeuralNetwork\RacletteNeuralNetwork.Batch\bin\Debug\RacletteN
 D:\Projets\RacletteNeuralNetwork\RacletteNeuralNetwork.Batch\obj\Debug\RacletteNeuralNetwork.Batch.csprojResolveAssemblyReference.cache
 D:\Projets\RacletteNeuralNetwork\RacletteNeuralNetwork.Batch\obj\Debug\RacletteNeuralNetwork.Batch.exe
 D:\Projets\RacletteNeuralNetwork\RacletteNeuralNetwork.Batch\obj\Debug\RacletteNeuralNetwork.Batch.pdb
+D:\Projets\Reseau-Neurones\RacletteNeuralNetwork\RacletteNeuralNetwork.Batch\bin\Debug\RacletteNeuralNetwork.Batch.exe.config
+D:\Projets\Reseau-Neurones\RacletteNeuralNetwork\RacletteNeuralNetwork.Batch\obj\Debug\RacletteNeuralNetwork.Batch.exe
+D:\Projets\Reseau-Neurones\RacletteNeuralNetwork\RacletteNeuralNetwork.Batch\obj\Debug\RacletteNeuralNetwork.Batch.pdb

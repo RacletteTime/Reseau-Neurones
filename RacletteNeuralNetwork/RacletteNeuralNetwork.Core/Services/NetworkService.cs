@@ -38,6 +38,17 @@ namespace RacletteNeuralNetwork.Core.Services
             return _couches;
         }
 
+        public void ChangeVariables(List<Couche> _couches, List<double> _variables)
+        {
+            foreach (Neurone _neurone in _couches[0].Neurones)
+            {
+                foreach (double _variable in _variables)
+                {
+                    NeuroneHelper.ChangeNeuroneValue(_neurone, _variable);
+                }
+            }
+        }
+
         public List<Couche> IterateInNetwork(List<Couche> _couches)
         {
             foreach (Couche _couche in _couches)
@@ -61,6 +72,19 @@ namespace RacletteNeuralNetwork.Core.Services
                         RetropropagationHelper.CalcErreurPreviousNeurones(_neurone);
                     }
                     RetropropagationHelper.UpdateWeights(_neurone);
+                }
+            }
+
+            return _couches;
+        }
+
+        public List<Couche> Prediction(List<Couche> _couches)
+        {
+            foreach (Couche _couche in _couches)
+            {
+                foreach (Neurone _neurone in _couche.Neurones)
+                {
+                    RetropropagationHelper.CalcSortieNeurone(_neurone);
                 }
             }
 

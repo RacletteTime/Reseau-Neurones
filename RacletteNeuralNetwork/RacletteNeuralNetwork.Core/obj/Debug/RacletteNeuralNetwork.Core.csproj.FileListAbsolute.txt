@@ -8,3 +8,27 @@ D:\Projets\Reseau-Neurones\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\
 D:\Projets\Reseau-Neurones\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.csprojResolveAssemblyReference.cache
 D:\Projets\Reseau-Neurones\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.dll
 D:\Projets\Reseau-Neurones\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.pdb
+C:\Users\koukouille\Downloads\Reseau-Neurones-master\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\Debug\RacletteNeuralNetwork.Core.dll
+C:\Users\koukouille\Downloads\Reseau-Neurones-master\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\Debug\RacletteNeuralNetwork.Core.pdb
+C:\Users\koukouille\Downloads\Reseau-Neurones-master\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.csprojResolveAssemblyReference.cache
+C:\Users\koukouille\Downloads\Reseau-Neurones-master\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.csproj.CoreCompileInputs.cache
+C:\Users\koukouille\Downloads\Reseau-Neurones-master\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.dll
+C:\Users\koukouille\Downloads\Reseau-Neurones-master\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.pdb
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\Debug\RacletteNeuralNetwork.Core.dll
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\Debug\RacletteNeuralNetwork.Core.pdb
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.csprojResolveAssemblyReference.cache
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.csproj.CoreCompileInputs.cache
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.dll
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.pdb
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\Debug\Json.dll
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\Debug\Newtonsoft.Json.dll
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\Debug\Json.pdb
+C:\Users\jonat\Desktop\Cours\I4\Réseau de Neurones\Projet\RacletteNeuralNetwork.Core\bin\Debug\RacletteNeuralNetwork.Core.dll
+C:\Users\jonat\Desktop\Cours\I4\Réseau de Neurones\Projet\RacletteNeuralNetwork.Core\bin\Debug\RacletteNeuralNetwork.Core.pdb
+C:\Users\jonat\Desktop\Cours\I4\Réseau de Neurones\Projet\RacletteNeuralNetwork.Core\bin\Debug\Json.dll
+C:\Users\jonat\Desktop\Cours\I4\Réseau de Neurones\Projet\RacletteNeuralNetwork.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jonat\Desktop\Cours\I4\Réseau de Neurones\Projet\RacletteNeuralNetwork.Core\bin\Debug\Json.pdb
+C:\Users\jonat\Desktop\Cours\I4\Réseau de Neurones\Projet\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.csprojResolveAssemblyReference.cache
+C:\Users\jonat\Desktop\Cours\I4\Réseau de Neurones\Projet\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Cours\I4\Réseau de Neurones\Projet\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.dll
+C:\Users\jonat\Desktop\Cours\I4\Réseau de Neurones\Projet\RacletteNeuralNetwork.Core\obj\Debug\RacletteNeuralNetwork.Core.pdb

@@ -17,6 +17,14 @@ namespace RacletteNeuralNetwork.Core.Helpers
             _neurone.Liaisons.Add(new Liaison(variable, RandomHelper.GetRandomNumber()));
         }
 
+        public static void ChangeNeuroneValue(Neurone _neurone, double variable)
+        {
+            foreach (Liaison _liaison in _neurone.Liaisons)
+            {
+                _liaison.Variable = variable;
+            }               
+        }
+
         public static void CreateLiaison(Neurone _neurone, Neurone _previousNeurone)
         {
             if (_neurone.Liaisons == null)

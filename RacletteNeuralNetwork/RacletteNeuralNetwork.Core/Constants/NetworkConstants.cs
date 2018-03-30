@@ -8,7 +8,7 @@ namespace RacletteNeuralNetwork.Core.Constants
 {
     public class NetworkConstants
     {
-        public const double SortieSouhaitee = 0.4;
+        public static double SortieSouhaitee = 0.4;
         public const double ConstApprentissage = 1;
     }
 }

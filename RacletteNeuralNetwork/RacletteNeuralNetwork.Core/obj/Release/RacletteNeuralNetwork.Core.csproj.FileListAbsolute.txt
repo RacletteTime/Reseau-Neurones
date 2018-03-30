@@ -1,0 +1,9 @@
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\Release\RacletteNeuralNetwork.Core.dll
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\Release\RacletteNeuralNetwork.Core.pdb
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\Release\Json.dll
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\Release\Newtonsoft.Json.dll
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\bin\Release\Json.pdb
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Release\RacletteNeuralNetwork.Core.csprojResolveAssemblyReference.cache
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Release\RacletteNeuralNetwork.Core.csproj.CoreCompileInputs.cache
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Release\RacletteNeuralNetwork.Core.dll
+D:\@@Documents@@\Bureau\I4\Réseau de Neurones\TP\RacletteNeuralNetwork\RacletteNeuralNetwork.Core\obj\Release\RacletteNeuralNetwork.Core.pdb

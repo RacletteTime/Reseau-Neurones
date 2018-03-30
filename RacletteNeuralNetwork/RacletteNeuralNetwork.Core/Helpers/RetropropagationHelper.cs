@@ -7,7 +7,7 @@ using RacletteNeuralNetwork.Core.Constants;
 
 namespace RacletteNeuralNetwork.Core.Helpers
 {
-    public static class RetropropagationHelper
+    public class RetropropagationHelper
     {
         private static double SommePonderee(Neurone _neurone)
         {

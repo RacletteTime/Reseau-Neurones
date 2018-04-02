@@ -1,0 +1,62 @@
+https://www.json-generator.com/
+
+[
+  '{{repeat(1000)}}',
+  {
+    Gender: '{{bool()}}',
+    Age: '{{integer(18, 120)}}',
+    Weight: '{{integer(30, 160)}}',
+    Smoke: '{{bool()}}',
+    Drink: '{{bool()}}',
+    HealthyFood: '{{bool()}}',
+    Stress: '{{bool()}}',
+    Sport: '{{bool()}}',
+    Sedentary: '{{bool()}}',
+    Cancer: function () {
+      var rateWeight;
+      var avoid = 0;
+      
+      var rateGender = (this.gender === true ? 30 : 20);
+      var rateAge = this.Age / 1.2;
+      
+      if(this.Weight < 40){
+        rateWeight = 40;
+      }
+      else if(this.Weight < 50){
+        rateWeight = 30;
+      }
+      else if(this.Weight < 80){
+        rateWeight = 10;
+      }
+      else if(this.Weight < 100){
+        rateWeight = 30;
+      }
+      else if(this.Weight < 120){
+        rateWeight = 60;
+      }
+      else{
+        rateWeight = 80;
+      }
+      
+      var rateSmoke = (this.Smoke === true ? 80 : 0);
+      if(this.Smoke === false) avoid++;
+      var rateDrink = (this.Drink === true ? 70 : 0);
+      if(this.Drink === false) avoid++;
+      var rateHealthyFood = (this.HealthyFood === true ? 10 : 50);
+      var rateStress = (this.Stress === true ? 50 : 0);
+      if(this.Stress === false) avoid++;
+      var rateSport = (this.Sport === true ? 10 : 40);
+      var rateSedentarity = (this.Sedentary === true ? 50 : 0);
+      if(this.Sedentary === false) avoid++;
+      
+      var risk = Math.round((rateGender+rateAge+rateWeight+rateSmoke+rateDrink+rateHealthyFood+rateStress+rateSport+rateSedentarity) / (9 - avoid));
+      
+      if(Math.floor((Math.random() * 100) + 1) < risk){
+        return true;
+      }
+      else{
+        return false;
+      }     
+    }
+  }
+]
